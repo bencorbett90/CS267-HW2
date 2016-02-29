@@ -30,21 +30,6 @@ length = 0;
 		}
 };
 
-/*
-int max(int i, int j){
-	if (i>j)
-		return i;
-	else
-		return j;
-}
-
-int min(int i,int j){
-	if (i<j)
-		return i;
-	else 
-		return j;
-}
-*/
 //
 //  benchmarking program
 //
